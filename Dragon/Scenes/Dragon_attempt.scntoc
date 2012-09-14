@@ -82,9 +82,9 @@
          <ImageHeight>486</ImageHeight>
          <ImagePixelRatio>0.9</ImagePixelRatio>
          <ImageLockAspectRatio>1</ImageLockAspectRatio>
-         <FrameRangeSource>3</FrameRangeSource>
+         <FrameRangeSource>0</FrameRangeSource>
          <FrameStart>1</FrameStart>
-         <FrameEnd>100</FrameEnd>
+         <FrameEnd>500</FrameEnd>
          <FrameStep>1</FrameStep>
          <FrameSet>1-100</FrameSet>
          <FrameSkipRendered>0</FrameSkipRendered>
