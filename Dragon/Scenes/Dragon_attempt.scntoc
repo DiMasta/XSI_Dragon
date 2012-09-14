@@ -73,7 +73,7 @@
          <IPEnable>0</IPEnable>
       </RenderOptions>
       <Pass name="Default_Pass">
-         <Camera>Camera</Camera>
+         <Camera>Demo_Render_Camera</Camera>
          <Renderer></Renderer>
          <ImageFormatOverride>0</ImageFormatOverride>
          <ImageFormatPreset>9</ImageFormatPreset>
