@@ -2,7 +2,9 @@
 
 <xsi_file type="SceneTOC" xsi_version="10.0.422.0" syntax_version="2.0">
    <Models></Models>
-   <Sources></Sources>
+   <Sources>
+      <Image name="noIcon_pic">$XSI_HOME/Application/rsrc/noIcon.pic</Image>
+   </Sources>
    <Passes>
       <RenderOptions name="RenderOptions">
          <Renderer>VRay</Renderer>
@@ -73,15 +75,15 @@
       <Pass name="Default_Pass">
          <Camera>Demo_Camera</Camera>
          <Renderer></Renderer>
-         <ImageFormatOverride>0</ImageFormatOverride>
-         <ImageFormatPreset>9</ImageFormatPreset>
-         <ImageAspectRatio>1.3333</ImageAspectRatio>
-         <ImageWidth>720</ImageWidth>
-         <ImageHeight>486</ImageHeight>
-         <ImagePixelRatio>0.9</ImagePixelRatio>
+         <ImageFormatOverride>1</ImageFormatOverride>
+         <ImageFormatPreset>-16</ImageFormatPreset>
+         <ImageAspectRatio>1.77778</ImageAspectRatio>
+         <ImageWidth>1920</ImageWidth>
+         <ImageHeight>1080</ImageHeight>
+         <ImagePixelRatio>1</ImagePixelRatio>
          <ImageLockAspectRatio>1</ImageLockAspectRatio>
          <FrameRangeSource>0</FrameRangeSource>
-         <FrameStart>1</FrameStart>
+         <FrameStart>225</FrameStart>
          <FrameEnd>500</FrameEnd>
          <FrameStep>1</FrameStep>
          <FrameSet>1-100</FrameSet>
@@ -93,8 +95,8 @@
          <CropWindowEnabled>0</CropWindowEnabled>
          <CropWindowOffsetX>0</CropWindowOffsetX>
          <CropWindowOffsetY>0</CropWindowOffsetY>
-         <CropWindowWidth>720</CropWindowWidth>
-         <CropWindowHeight>486</CropWindowHeight>
+         <CropWindowWidth>1920</CropWindowWidth>
+         <CropWindowHeight>1080</CropWindowHeight>
          <SelectionTracking>0</SelectionTracking>
          <SelectionOnly>0</SelectionOnly>
          <MotionBlur>0</MotionBlur>
