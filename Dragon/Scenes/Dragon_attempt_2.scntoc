@@ -7,7 +7,7 @@
    </Sources>
    <Passes>
       <RenderOptions name="RenderOptions">
-         <Renderer>VRay</Renderer>
+         <Renderer>Hardware Renderer</Renderer>
          <OutputDir>[Project Path]/Render_Pictures</OutputDir>
          <FramePadding>1</FramePadding>
          <ImageFormatPreset>9</ImageFormatPreset>
@@ -74,7 +74,7 @@
       </RenderOptions>
       <Pass name="Default_Pass">
          <Camera>Demo_Camera</Camera>
-         <Renderer></Renderer>
+         <Renderer>VRay</Renderer>
          <ImageFormatOverride>1</ImageFormatOverride>
          <ImageFormatPreset>-16</ImageFormatPreset>
          <ImageAspectRatio>1.77778</ImageAspectRatio>
