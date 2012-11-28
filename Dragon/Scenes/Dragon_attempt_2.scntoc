@@ -74,7 +74,7 @@
       </RenderOptions>
       <Pass name="Default_Pass">
          <Camera>Demo_Camera</Camera>
-         <Renderer>VRay</Renderer>
+         <Renderer></Renderer>
          <ImageFormatOverride>1</ImageFormatOverride>
          <ImageFormatPreset>-16</ImageFormatPreset>
          <ImageAspectRatio>1.77778</ImageAspectRatio>
