@@ -83,7 +83,7 @@
          <ImagePixelRatio>1</ImagePixelRatio>
          <ImageLockAspectRatio>1</ImageLockAspectRatio>
          <FrameRangeSource>0</FrameRangeSource>
-         <FrameStart>1</FrameStart>
+         <FrameStart>310</FrameStart>
          <FrameEnd>500</FrameEnd>
          <FrameStep>1</FrameStep>
          <FrameSet>1-100</FrameSet>
